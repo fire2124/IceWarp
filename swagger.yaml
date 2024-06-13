@@ -1,0 +1,82 @@
+openapi: 3.0.0
+info:
+  title: Simple API IceWarp
+  version: 1.0.0
+  description: A simple API example for sending Email
+paths:
+  /api/v1/send-email:
+    post:
+      tags:
+        - email
+      summary: Send a new email
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                key:
+                  type: string
+                  description: Name of email template (generally there could be many templates, for the purpose of this task expect usage of a single one)
+                  example: task-icewarp
+                subject:
+                  type: string
+                  description: Email subject
+                  example:  subject
+                delayed_send:
+                  type: string
+                  description: Optional parameter. When missing, email is supposed to be sent immediately. When filled, email sending is supposed to be postponed till specified time (UTC)
+                  example: 2024-06-06 21:12:00
+                email: 
+                  type: array
+                  description: Array of target email addresses
+                  items:
+                    type: string
+                    description: string of email
+                    example: "info@icewarp.com"
+                bcc:
+                  type: array
+                  description: Array of hidden copy email adresses
+                  items:
+                    type: string
+                    description: string of email
+                    example: "info@icewarp.com"
+                body_data:
+                  type: object
+                  description:  Variables to be used in the template. For the purpose of this task consider these variables to be used
+                  properties:
+                    name:
+                      type: string
+                      description: Name of the recipient
+                      example: Tonda
+                    days: 
+                      type: string
+                      description: Number of days till expiration
+                      example: 7
+                    link:
+                      type: object
+                      description: Formatted hyperlink object used in the email body (label and url)
+                      properties:
+                        label:
+                          type: string
+                          description: label of link
+                          example: click here
+                        url: 
+                          type: string
+                          description: string of url
+                          example: https://www.icewarp.com
+              
+              required:
+                - subject
+                - body_data
+                - email
+                - bcc
+
+      responses:
+        '200':
+          description: Email sent
+        '202':
+          description: Emailed scheduled
+        '400':
+          description: Bad request, check your request payload / delayed_send must be a future date
