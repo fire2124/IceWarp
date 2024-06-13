@@ -1,0 +1,35 @@
+17:20:17.705 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:20:33.314 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:20:58.660 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:21:27.628 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:23:36.113 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:23:47.434 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:23:55.713 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:24:58.356 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:27:26.918 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:27:45.362 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:29:53.914 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:31:00.142 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:32:04.447 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:33:57.368 | Info | 'Incoming call: POST, on path: /, IP: ::1' | 
+17:33:57.369 | Info | 'Body: {"from":"\'Maddison Foo Koch 👻\' <maddison53@ethereal.email>\'","to":["bar@example.com","baz@example.com"],"subject":"Hello ✔","text":"Hello world?"})' | 
+17:33:57.371 | Info | '---------------' | 
+17:34:53.820 | Info | 'Incoming call: POST, on path: /, IP: ::1' | 
+17:34:53.823 | Info | 'Body: {"key":"task-icewarp","delayed_send":"2024-05-22 15:30:00","email":["tonda@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+17:34:53.825 | Info | '---------------' | 
+17:46:19.674 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:46:26.152 | Info | 'Incoming call: POST, on path: /, IP: ::1' | 
+17:46:26.154 | Info | 'Body: {"key":"task-icewarp","delayed_send":"2024-05-22 15:30:00","email":["tonda@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+17:46:26.156 | Info | '---------------' | 
+17:47:16.186 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:47:17.493 | Info | 'Incoming call: POST, on path: /, IP: ::1' | 
+17:47:17.495 | Info | 'Body: {"key":"task-icewarp","delayed_send":"2024-05-22 15:30:00","email":["tonda@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+17:47:17.498 | Info | '---------------' | 
+17:54:36.964 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:54:40.440 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+17:55:19.967 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+18:09:19.824 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+18:13:28.524 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+18:13:34.061 | Info | 'Incoming call: POST, on path: /, IP: ::1' | 
+18:13:34.065 | Info | '---------------' | 
+18:13:34.063 | Info | 'Body: {"key":"task-icewarp","delayed_send":"2024-05-22 15:30:00","email":["tonda@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 

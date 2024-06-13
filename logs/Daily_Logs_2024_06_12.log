@@ -1,0 +1,702 @@
+10:23:02.168 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+10:23:26.930 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+10:23:33.848 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:11:38.658 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:15:35.416 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:17:04.864 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:17:08.470 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:19:51.066 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:20:14.937 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:20:30.399 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:20:35.287 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:47:56.961 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+12:48:09.552 | Info | 'Incoming call: POST, on path: /send-email, IP: ::1' | 
+12:48:09.555 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-06-06T21:12:00.000Z","email":["info@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+12:48:09.557 | Info | '---------------' | 
+12:48:24.643 | Info | 'Incoming call: POST, on path: /send-email, IP: ::1' | 
+12:48:24.646 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06T21:12:00.000Z","email":["info@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+12:48:24.648 | Info | '---------------' | 
+13:21:57.923 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:25:00.799 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:36:15.244 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:36:20.747 | Info | 'Incoming call: POST, on path: /send-email, IP: ::1' | 
+13:36:20.749 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-06-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+13:36:20.752 | Info | '---------------' | 
+13:38:39.481 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:38:45.691 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:39:17.281 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:41:52.277 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:42:06.787 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:43:22.697 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:44:08.717 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:45:08.994 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:46:22.508 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:48:59.389 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:49:33.266 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:50:22.728 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:52:26.611 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:53:35.674 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:53:35.733 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:53:35.735 | Info | 'Body: {"to":"receiver-email@gmail.com","subject":"Test email","text":"This is a test email"})' | 
+13:53:35.738 | Info | '---------------' | 
+13:53:35.767 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:53:35.769 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+13:53:35.771 | Info | '---------------' | 
+13:54:27.241 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:54:27.309 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:54:27.311 | Info | 'Body: {"to":"receiver-email@gmail.com","subject":"Test email","text":"This is a test email"})' | 
+13:54:27.315 | Info | '---------------' | 
+13:54:27.473 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:54:27.476 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+13:54:27.478 | Info | '---------------' | 
+13:55:10.653 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+13:55:10.717 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:55:10.719 | Info | 'Body: {"to":"receiver-email@gmail.com","subject":"Test email","text":"This is a test email"})' | 
+13:55:10.721 | Info | '---------------' | 
+13:55:10.753 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+13:55:10.756 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+13:55:10.758 | Info | '---------------' | 
+15:24:27.922 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:24:27.985 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:24:27.989 | Info | '---------------' | 
+15:24:27.987 | Info | 'Body: {})' | 
+15:24:28.018 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:24:28.019 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+15:24:28.021 | Info | '---------------' | 
+15:25:50.510 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:25:50.569 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:25:50.573 | Info | '---------------' | 
+15:25:50.571 | Info | 'Body: {})' | 
+15:25:50.601 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:25:50.603 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-06-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:25:50.605 | Info | '---------------' | 
+15:25:50.624 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:25:50.626 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+15:25:50.627 | Info | '---------------' | 
+15:26:47.974 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:26:48.035 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:26:48.039 | Info | '---------------' | 
+15:26:48.037 | Info | 'Body: {})' | 
+15:26:48.068 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:26:48.070 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:26:48.072 | Info | '---------------' | 
+15:26:48.091 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:26:48.093 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+15:26:48.095 | Info | '---------------' | 
+15:29:34.880 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:29:34.954 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:29:34.959 | Info | '---------------' | 
+15:29:34.956 | Info | 'Body: {})' | 
+15:29:34.986 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:29:34.984 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:29:34.988 | Info | '---------------' | 
+15:29:35.008 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:29:35.010 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:29:35.012 | Info | '---------------' | 
+15:29:35.029 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:29:35.030 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:29:35.032 | Info | '---------------' | 
+15:29:35.052 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:29:35.054 | Info | 'Body: {"to":"invalid-email","subject":"Test email","text":"This is a test email"})' | 
+15:29:35.055 | Info | '---------------' | 
+15:30:15.649 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:30:15.715 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:15.717 | Info | 'Body: {})' | 
+15:30:15.719 | Info | '---------------' | 
+15:30:15.745 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:15.747 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:15.750 | Info | '---------------' | 
+15:30:15.769 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:15.767 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:15.771 | Info | '---------------' | 
+15:30:15.786 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:15.788 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:15.791 | Info | '---------------' | 
+15:30:15.815 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:15.817 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:15.818 | Info | '---------------' | 
+15:30:45.048 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:30:45.113 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:45.115 | Info | 'Body: {})' | 
+15:30:45.117 | Info | '---------------' | 
+15:30:45.145 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:45.143 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:45.147 | Info | '---------------' | 
+15:30:45.165 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:45.166 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:45.168 | Info | '---------------' | 
+15:30:45.184 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:45.186 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:45.187 | Info | '---------------' | 
+15:30:45.210 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:30:45.212 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:30:45.213 | Info | '---------------' | 
+15:33:46.805 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:33:46.869 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:33:46.872 | Info | '---------------' | 
+15:33:46.870 | Info | 'Body: {})' | 
+15:33:46.902 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:33:46.904 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:33:46.907 | Info | '---------------' | 
+15:33:51.958 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:33:51.960 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:33:51.961 | Info | '---------------' | 
+15:33:56.995 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:33:57.000 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:33:57.004 | Info | '---------------' | 
+15:34:01.997 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:02.000 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:34:02.003 | Info | '---------------' | 
+15:34:33.147 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:34:33.211 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:33.215 | Info | '---------------' | 
+15:34:33.213 | Info | 'Body: {})' | 
+15:34:33.242 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:33.244 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:34:33.245 | Info | '---------------' | 
+15:34:38.271 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:38.273 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:34:38.275 | Info | '---------------' | 
+15:34:43.291 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:43.293 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:34:43.295 | Info | '---------------' | 
+15:34:48.327 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:34:48.331 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:34:48.335 | Info | '---------------' | 
+15:35:41.003 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:35:41.071 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:35:41.073 | Info | 'Body: {})' | 
+15:35:41.075 | Info | '---------------' | 
+15:35:41.101 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:35:41.103 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:35:41.104 | Info | '---------------' | 
+15:35:41.123 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:35:41.126 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:35:41.128 | Info | '---------------' | 
+15:35:41.148 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:35:41.150 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:35:41.152 | Info | '---------------' | 
+15:35:41.180 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:35:41.182 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:35:41.184 | Info | '---------------' | 
+15:36:55.579 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:36:55.639 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:36:55.641 | Info | 'Body: {})' | 
+15:36:55.643 | Info | '---------------' | 
+15:36:55.670 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:36:55.672 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:36:55.674 | Info | '---------------' | 
+15:36:55.694 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:36:55.696 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:36:55.698 | Info | '---------------' | 
+15:36:55.714 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:36:55.716 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:36:55.718 | Info | '---------------' | 
+15:38:39.323 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:38:39.384 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:38:39.388 | Info | '---------------' | 
+15:38:39.386 | Info | 'Body: {})' | 
+15:38:39.413 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:38:39.417 | Info | '---------------' | 
+15:38:39.415 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:38:39.435 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:38:39.437 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:38:39.439 | Info | '---------------' | 
+15:38:39.456 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:38:39.458 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:38:39.459 | Info | '---------------' | 
+15:38:39.483 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:38:39.485 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:38:39.486 | Info | '---------------' | 
+15:39:46.842 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:39:46.959 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:39:46.962 | Info | 'Body: {})' | 
+15:39:46.965 | Info | '---------------' | 
+15:39:47.014 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:39:47.017 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:39:47.020 | Info | '---------------' | 
+15:39:47.047 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:39:47.050 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:39:47.052 | Info | '---------------' | 
+15:39:47.081 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:39:47.084 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:39:47.086 | Info | '---------------' | 
+15:39:47.116 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:39:47.118 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:39:47.120 | Info | '---------------' | 
+15:42:26.446 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:42:26.509 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:42:26.513 | Info | '---------------' | 
+15:42:26.511 | Info | 'Body: {})' | 
+15:42:26.544 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:42:26.545 | Info | '---------------' | 
+15:42:26.542 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:42:26.564 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:42:26.565 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:42:26.567 | Info | '---------------' | 
+15:42:26.584 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:42:26.586 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:42:26.587 | Info | '---------------' | 
+15:42:26.614 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:42:26.616 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:42:26.618 | Info | '---------------' | 
+15:45:09.309 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:45:09.374 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:45:09.376 | Info | 'Body: {})' | 
+15:45:09.379 | Info | '---------------' | 
+15:45:09.428 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:45:09.430 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:45:09.432 | Info | '---------------' | 
+15:45:09.459 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:45:09.461 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:45:09.464 | Info | '---------------' | 
+15:45:09.498 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:45:09.500 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:45:09.502 | Info | '---------------' | 
+15:45:09.536 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:45:09.538 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:45:09.541 | Info | '---------------' | 
+15:47:34.307 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:47:34.374 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:47:34.376 | Info | 'Body: {})' | 
+15:47:34.380 | Info | '---------------' | 
+15:47:34.425 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:47:34.428 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:47:34.431 | Info | '---------------' | 
+15:47:34.463 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:47:34.465 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:47:34.468 | Info | '---------------' | 
+15:47:34.495 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:47:34.498 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:47:34.501 | Info | '---------------' | 
+15:47:34.531 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:47:34.534 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:47:34.536 | Info | '---------------' | 
+15:48:29.529 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:48:29.602 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:48:29.605 | Info | 'Body: {})' | 
+15:48:29.609 | Info | '---------------' | 
+15:48:29.669 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:48:29.671 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:48:29.674 | Info | '---------------' | 
+15:48:29.708 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:48:29.711 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:48:29.713 | Info | '---------------' | 
+15:48:29.742 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:48:29.745 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:48:29.747 | Info | '---------------' | 
+15:48:29.779 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:48:29.781 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:48:29.783 | Info | '---------------' | 
+15:55:02.284 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+15:55:02.343 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:55:02.347 | Info | '---------------' | 
+15:55:02.345 | Info | 'Body: {})' | 
+15:55:02.375 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:55:02.378 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:55:02.380 | Info | '---------------' | 
+15:55:02.400 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:55:02.402 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:55:02.404 | Info | '---------------' | 
+15:55:02.423 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:55:02.425 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:55:02.427 | Info | '---------------' | 
+15:55:02.451 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+15:55:02.453 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+15:55:02.456 | Info | '---------------' | 
+19:16:26.569 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:16:43.044 | Info | 'Incoming call: POST, on path: /send-email, IP: ::1' | 
+19:16:43.046 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-06-06T21:12:00.000Z","email":["info@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:16:43.048 | Info | '---------------' | 
+19:16:44.501 | Info | 'Incoming call: POST, on path: /send-email, IP: ::1' | 
+19:16:44.503 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-06-06T21:12:00.000Z","email":["info@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:16:44.505 | Info | '---------------' | 
+19:17:16.641 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:18:53.128 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:18:59.989 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:20:08.854 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:20:24.420 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:21:10.910 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:21:24.745 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:22:50.296 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:24:36.050 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:24:55.634 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:25:02.174 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:25:20.720 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:25:42.255 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:26:15.263 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:26:41.532 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:27:12.520 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:27:56.550 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:28:03.520 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:28:30.936 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:28:37.237 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:29:07.976 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:30:05.609 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:30:22.260 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:31:49.112 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:31:49.169 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:31:49.172 | Info | '---------------' | 
+19:31:49.170 | Info | 'Body: {})' | 
+19:31:49.195 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:31:49.198 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:31:49.199 | Info | '---------------' | 
+19:31:49.212 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:31:49.214 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:31:49.216 | Info | '---------------' | 
+19:31:49.230 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:31:49.232 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:31:49.234 | Info | '---------------' | 
+19:31:49.252 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:31:49.253 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:31:49.255 | Info | '---------------' | 
+19:45:02.664 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:45:02.729 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:02.731 | Info | 'Body: {})' | 
+19:45:02.733 | Info | '---------------' | 
+19:45:02.754 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:02.756 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:02.758 | Info | '---------------' | 
+19:45:02.772 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:02.774 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:02.777 | Info | '---------------' | 
+19:45:02.793 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:02.795 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:02.797 | Info | '---------------' | 
+19:45:02.818 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:02.820 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:02.823 | Info | '---------------' | 
+19:45:40.824 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:45:40.875 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:40.877 | Info | 'Body: {})' | 
+19:45:40.879 | Info | '---------------' | 
+19:45:40.900 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:40.902 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:40.904 | Info | '---------------' | 
+19:45:40.917 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:40.919 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:40.920 | Info | '---------------' | 
+19:45:40.935 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:40.936 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:40.938 | Info | '---------------' | 
+19:45:40.957 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:45:40.955 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:45:40.959 | Info | '---------------' | 
+19:46:59.837 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:46:59.886 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:46:59.888 | Info | 'Body: {})' | 
+19:46:59.890 | Info | '---------------' | 
+19:46:59.914 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:46:59.916 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:46:59.917 | Info | '---------------' | 
+19:46:59.932 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:46:59.934 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:46:59.936 | Info | '---------------' | 
+19:46:59.951 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:46:59.953 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:46:59.955 | Info | '---------------' | 
+19:46:59.973 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:46:59.975 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:46:59.977 | Info | '---------------' | 
+19:48:44.465 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:48:44.516 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:48:44.518 | Info | 'Body: {})' | 
+19:48:44.520 | Info | '---------------' | 
+19:48:44.541 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:48:44.543 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:48:44.545 | Info | '---------------' | 
+19:48:44.559 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:48:44.561 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:48:44.563 | Info | '---------------' | 
+19:48:44.580 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:48:44.582 | Info | '---------------' | 
+19:48:44.578 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:48:44.605 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:48:44.607 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:48:44.609 | Info | '---------------' | 
+19:51:48.735 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:51:48.789 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:51:48.790 | Info | 'Body: {})' | 
+19:51:48.792 | Info | '---------------' | 
+19:51:48.814 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:51:48.815 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:51:48.817 | Info | '---------------' | 
+19:51:48.830 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:51:48.831 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:51:48.833 | Info | '---------------' | 
+19:51:48.846 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:51:48.848 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:51:48.849 | Info | '---------------' | 
+19:51:48.866 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:51:48.867 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:51:48.869 | Info | '---------------' | 
+19:52:38.706 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:52:38.760 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:52:38.762 | Info | 'Body: {})' | 
+19:52:38.764 | Info | '---------------' | 
+19:52:38.786 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:52:38.788 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:52:38.790 | Info | '---------------' | 
+19:52:38.807 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:52:38.805 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:52:38.808 | Info | '---------------' | 
+19:52:38.824 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:52:38.826 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:52:38.828 | Info | '---------------' | 
+19:52:38.847 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:52:38.848 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:52:38.850 | Info | '---------------' | 
+19:54:46.741 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:54:59.627 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:55:12.510 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:55:12.512 | Info | 'Body: {})' | 
+19:55:12.514 | Info | '---------------' | 
+19:55:12.539 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:55:12.541 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:55:12.544 | Info | '---------------' | 
+19:55:12.558 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:55:12.560 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:55:12.562 | Info | '---------------' | 
+19:55:12.578 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:55:12.580 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:55:12.581 | Info | '---------------' | 
+19:55:12.602 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:55:12.604 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:55:12.606 | Info | '---------------' | 
+19:56:30.512 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:56:46.637 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:57:00.724 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:00.726 | Info | 'Body: {})' | 
+19:57:00.728 | Info | '---------------' | 
+19:57:00.754 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:00.757 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:00.759 | Info | '---------------' | 
+19:57:00.773 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:00.775 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:00.777 | Info | '---------------' | 
+19:57:00.791 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:00.792 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:00.794 | Info | '---------------' | 
+19:57:00.814 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:00.816 | Info | '---------------' | 
+19:57:00.812 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.424 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:57:31.479 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.481 | Info | 'Body: {})' | 
+19:57:31.483 | Info | '---------------' | 
+19:57:31.507 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.509 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:31.511 | Info | '---------------' | 
+19:57:31.526 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.528 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:31.530 | Info | '---------------' | 
+19:57:31.546 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.547 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:31.549 | Info | '---------------' | 
+19:57:31.573 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:57:31.575 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:57:31.577 | Info | '---------------' | 
+19:58:15.144 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:58:15.204 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:58:15.206 | Info | 'Body: {})' | 
+19:58:15.208 | Info | '---------------' | 
+19:58:15.231 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:58:15.233 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:58:15.235 | Info | '---------------' | 
+19:58:15.248 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:58:15.249 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:58:15.251 | Info | '---------------' | 
+19:58:15.262 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:58:15.265 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:58:15.267 | Info | '---------------' | 
+19:58:15.283 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:58:15.285 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:58:15.287 | Info | '---------------' | 
+19:59:18.799 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+19:59:18.852 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:59:18.854 | Info | 'Body: {})' | 
+19:59:18.856 | Info | '---------------' | 
+19:59:18.876 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:59:18.878 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:59:18.880 | Info | '---------------' | 
+19:59:18.891 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:59:18.893 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:59:18.895 | Info | '---------------' | 
+19:59:18.908 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:59:18.911 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:59:18.913 | Info | '---------------' | 
+19:59:18.931 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+19:59:18.932 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+19:59:18.934 | Info | '---------------' | 
+20:01:12.532 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:01:12.592 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:01:12.596 | Info | '---------------' | 
+20:01:12.594 | Info | 'Body: {})' | 
+20:01:12.618 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:01:12.620 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:01:12.622 | Info | '---------------' | 
+20:01:12.640 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:01:12.643 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:01:12.645 | Info | '---------------' | 
+20:01:12.662 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:01:12.664 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:01:12.666 | Info | '---------------' | 
+20:01:12.684 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:01:12.686 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:01:12.688 | Info | '---------------' | 
+20:02:10.526 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:02:10.575 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:02:10.581 | Info | '---------------' | 
+20:02:10.578 | Info | 'Body: {})' | 
+20:02:10.609 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:02:10.611 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:02:10.613 | Info | '---------------' | 
+20:02:10.627 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:02:10.629 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:02:10.631 | Info | '---------------' | 
+20:02:10.644 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:02:10.647 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:02:10.649 | Info | '---------------' | 
+20:02:10.666 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:02:10.668 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:02:10.670 | Info | '---------------' | 
+20:03:00.820 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:03:00.885 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:03:00.891 | Info | 'Body: {})' | 
+20:03:00.894 | Info | '---------------' | 
+20:03:00.930 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:03:00.933 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:03:00.936 | Info | '---------------' | 
+20:03:00.976 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:03:00.978 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:03:00.980 | Info | '---------------' | 
+20:03:00.997 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:03:00.999 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:03:01.000 | Info | '---------------' | 
+20:03:01.020 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:03:01.022 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:03:01.024 | Info | '---------------' | 
+20:07:52.427 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:07:52.484 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:07:52.488 | Info | '---------------' | 
+20:07:52.486 | Info | 'Body: {})' | 
+20:07:52.513 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:07:52.515 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:07:52.517 | Info | '---------------' | 
+20:07:52.531 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:07:52.533 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:07:52.535 | Info | '---------------' | 
+20:07:52.548 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:07:52.551 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:07:52.553 | Info | '---------------' | 
+20:07:52.566 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:07:52.568 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:07:52.570 | Info | '---------------' | 
+20:07:54.005 | Info | 'Incoming call: POST, on path: /, IP: ::ffff:127.0.0.1' | 
+20:07:54.007 | Info | 'Body: {})' | 
+20:07:54.009 | Info | '---------------' | 
+20:08:55.259 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:08:55.315 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:08:55.317 | Info | 'Body: {})' | 
+20:08:55.319 | Info | '---------------' | 
+20:08:55.339 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:08:55.341 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:08:55.344 | Info | '---------------' | 
+20:08:55.358 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:08:55.360 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:08:55.362 | Info | '---------------' | 
+20:08:55.376 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:08:55.378 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:08:55.379 | Info | '---------------' | 
+20:08:55.398 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:08:55.400 | Info | '---------------' | 
+20:08:55.397 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:08:56.837 | Info | 'Incoming call: POST, on path: /, IP: ::ffff:127.0.0.1' | 
+20:08:56.838 | Info | 'Body: {})' | 
+20:08:56.840 | Info | '---------------' | 
+20:09:35.454 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:09:35.516 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:09:35.519 | Info | 'Body: {})' | 
+20:09:35.521 | Info | '---------------' | 
+20:09:35.540 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:09:35.543 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:09:35.544 | Info | '---------------' | 
+20:09:35.555 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:09:35.557 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:09:35.559 | Info | '---------------' | 
+20:09:35.570 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:09:35.572 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:09:35.574 | Info | '---------------' | 
+20:09:35.589 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:09:35.591 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:09:35.593 | Info | '---------------' | 
+20:09:36.913 | Info | 'Incoming call: GET, on path: /, IP: ::ffff:127.0.0.1' | 
+20:09:36.916 | Info | 'Body: {})' | 
+20:09:36.917 | Info | '---------------' | 
+20:10:21.887 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:10:21.956 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:10:21.958 | Info | 'Body: {})' | 
+20:10:21.961 | Info | '---------------' | 
+20:10:21.992 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:10:21.994 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:10:21.997 | Info | '---------------' | 
+20:10:22.013 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:10:22.015 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:10:22.017 | Info | '---------------' | 
+20:10:22.033 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:10:22.036 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:10:22.038 | Info | '---------------' | 
+20:10:22.063 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:10:22.065 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:10:22.068 | Info | '---------------' | 
+20:10:23.641 | Info | 'Incoming call: GET, on path: /, IP: ::ffff:127.0.0.1' | 
+20:10:23.644 | Info | 'Body: {})' | 
+20:10:23.646 | Info | '---------------' | 
+20:12:19.909 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:12:19.958 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:19.962 | Info | '---------------' | 
+20:12:19.960 | Info | 'Body: {})' | 
+20:12:19.983 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:19.985 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:19.986 | Info | '---------------' | 
+20:12:19.998 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:20.000 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:20.002 | Info | '---------------' | 
+20:12:20.015 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:20.017 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:20.019 | Info | '---------------' | 
+20:12:20.039 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:20.041 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:20.042 | Info | '---------------' | 
+20:12:50.060 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:12:50.112 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:50.116 | Info | '---------------' | 
+20:12:50.114 | Info | 'Body: {})' | 
+20:12:50.136 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:50.138 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:50.139 | Info | '---------------' | 
+20:12:50.152 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:50.154 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:50.155 | Info | '---------------' | 
+20:12:50.169 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:50.171 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:50.173 | Info | '---------------' | 
+20:12:50.191 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:12:50.192 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:12:50.194 | Info | '---------------' | 
+20:14:52.906 | Info | '🚀 [server]: Server is running at http://localhost:3000 🚀' | 
+20:14:52.958 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:14:52.962 | Info | '---------------' | 
+20:14:52.960 | Info | 'Body: {})' | 
+20:14:52.982 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:14:52.984 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"545","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:14:52.986 | Info | '---------------' | 
+20:14:52.999 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:14:53.001 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2024-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:14:53.003 | Info | '---------------' | 
+20:14:53.017 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:14:53.018 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:14:53.020 | Info | '---------------' | 
+20:14:53.038 | Info | 'Incoming call: POST, on path: /send-email, IP: ::ffff:127.0.0.1' | 
+20:14:53.040 | Info | 'Body: {"key":"task-icewarp","subject":"subject","delayed_send":"2023-12-06 21:12:00","email":["tonda@icewarp.com","Filip@icewarp.com"],"bcc":["info@icewarp.com"],"body_data":{"name":"Tonda","days":"7","link":{"label":"click here","url":"https://www.icewarp.com"}}})' | 
+20:14:53.042 | Info | '---------------' | 
